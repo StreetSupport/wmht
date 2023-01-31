@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div id="main">
+  <div class="container">
+    <section>
+      <div>
+        <h1 class="h1">{{ .Params.about.heading }}</h1>
+        <img class="c2c-logo" src="/assets/c2c-logo.png" alt="c2c logo">
+        <p>{{ partial "bodyMarkdown.html" .Params.about.body }}</p>
+      </div>
+    </section>
+  
+    <section>
+      <div>
+        <h1 class="h3">{{ .Params.toolkit.heading }}</h1>
+        <p>{{ partial "bodyMarkdown.html" .Params.toolkit.body }}</p>
+      </div>
+    </section>
+  
+    <section>
+      <div>
+        <h1 class="h3">{{ .Params.c2cResources.heading }}</h1>
+        <p>{{ partial "bodyMarkdown.html" .Params.c2cResources.body }}</p>
+      </div>
+    </section>
+  </div>
+</div>
+  
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}

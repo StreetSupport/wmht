@@ -1,0 +1,36 @@
+
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div id="main">
+  <section class="container">
+    <div>
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
+    </div>
+  </section>
+
+  <section class="container">
+    <div>
+      <h2 class="h2">{{ .Params.c2c.heading }}</h2>
+      <p>{{ partial "bodyMarkdown.html" .Params.c2c.body }}</p>
+    </div>
+  </section>
+
+  <section class="container">
+    <div>
+      <h2 class="h2">{{ .Params.nprf.heading }}</h2>
+      <p>{{ partial "bodyMarkdown.html" .Params.nprf.body }}</p>
+    </div>
+  </section>
+
+  <section class="container">
+    <div>
+      <h2 class="h2">{{ .Params.otherResources.heading }}</h2>
+      <p>{{ partial "bodyMarkdown.html" .Params.otherResources.body }}</p>
+    </div>
+  </section>
+  
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}

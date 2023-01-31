@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div id="main">
+
+  <section class="home-hero">
+    <div>
+      <h1 class="home-hero_title">West Midlands Homelessness Taskforce</h1>
+    </div>
+  </section>
+
+  <section>
+    <div class="block block--orange cards card-container">
+    <a href="{{ .Params.ctaCards.cardOne.cardLink }}" class="card">
+        <div class="card__text">
+            <h3 class="card__title">Advice</h3>
+            <p class="card__body">Find advice about homelessness issues</p>
+        </div>
+      </a>
+      <a href="{{ .Params.ctaCards.cardTwo.cardLink }}" class="card">
+        <div class="card__text">
+            <h3 class="card__title">Support Us</h3>
+            <p class="card__body">Information about how you can support the taskforce</p>
+        </div>
+      </a>
+      <a href="{{ .Params.ctaCards.cardThree.cardLink }}" class="card">
+        <div class="card__text">
+            <h3 class="card__title">Resources</h3>
+            <p class="card__body">A collection of useful resources for individuals and organisations</p>
+        </div>
+      </a>
+  </section>
+
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+{{ end }}
