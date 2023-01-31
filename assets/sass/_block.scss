@@ -10,6 +10,18 @@
   }
 }
 
+.app-store-links {
+  display: flex;
+}
+
+.play-store {
+  margin-left: 10px;
+
+  img {
+    width: 135px;
+  }
+}
+
 .block {
 
   &.block--highlight {
