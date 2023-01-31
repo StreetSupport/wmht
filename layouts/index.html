@@ -5,7 +5,8 @@
 
   <section class="home-hero">
     <div>
-      <h1 class="home-hero_title">West Midlands Homelessness Taskforce</h1>
+      <h1 class="home-hero_title">WMHT</h1>
+      <h2 class="home-hero-sub-title">West Midlands Homelessness Taskforce</h2>
     </div>
   </section>
 
@@ -30,6 +31,50 @@
         </div>
       </a>
   </section>
+
+  <div class="container">
+    <div>
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+    </div>
+
+    <section>
+      <div>
+        <div>
+          <h3 class="h3">{{ .Params.whatIs.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.whatIs.body }}</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div>
+        <div>
+          <h3 class="h3">{{ .Params.whatHave.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.whatHave.body }}</p>
+        </div>
+      </div>
+      <div>
+        <div>
+          <h3 class="h3">{{ .Params.whatAre.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.whatAre.body }}</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="block block--highlight">
+      <div>
+        <h3 class="h3">{{ .Params.howStructured.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.howStructured.body }}</p>
+      </div>
+    </section>
+    <section>
+      <div>
+        <h3 class="h3">{{ .Params.whoIs.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.whoIs.body }}</p>
+      </div>
+    </section>
+
+  </div>
 
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}

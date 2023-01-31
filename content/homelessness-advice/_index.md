@@ -26,7 +26,7 @@ ssn:
   ssn: Street Support Network
 streetlink:
   body: >-
-    If you are worried about someone you’ve seen sleeping rough in Manchester, you can alert the Council on their website. Alternatively, you can inform Streetlink by downloading the [Streetlink app](#) or by calling 0300 500 0914.
+    If you are worried about someone you’ve seen sleeping rough in the West Midlands, you can alert the Council on their website. Alternatively, you can inform Streetlink by downloading the [Streetlink app](#) or by calling 0300 500 0914.
   heading: Contact StreetLink
 
 ---
