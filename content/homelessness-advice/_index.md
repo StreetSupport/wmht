@@ -26,7 +26,10 @@ ssn:
   ssn: Street Support Network
 streetlink:
   body: >-
-    If you are worried about someone you’ve seen sleeping rough in the West Midlands, you can alert the Council on their website. Alternatively, you can inform Streetlink by downloading the [Streetlink app](#) or by calling 0300 500 0914.
+    If you are concerned about someone over the age of 18 that you have seen sleeping rough in the West Midlands, you can alert the appropriate rough sleeper outreach teams via StreetLink. You can inform Streetlink by downloading the StreetLink app or by calling [0300 500 0914](tel:03005000914). 
+    
+    
+    It is important to note that if you think the person you are concerned about is under 18 please do not contact StreetLink but instead call the police.
   heading: Contact StreetLink
 
 ---
