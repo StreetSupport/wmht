@@ -1,11 +1,4 @@
 ---
-banner:
-  bannerHeading: Contribute to the Network!
-tagline: >-
-  everyone across Greater Manchester working to end homelessness:
-
-
-  People with personal insights into homelessness, people from the frontline organisations, public sector officers, and anyone working to find more effective solutions to the homelessness crisis.
 ctaCards:
   cardOne:
     cardLink: /news-and-events
@@ -13,7 +6,7 @@ ctaCards:
     cardTitle: News & Events
   cardThree:
     cardLink: /about
-    cardText: Learn what Greater Manchester is doing to end homelessness
+    cardText: Learn  is doing to end homelessness
     cardTitle: About
   cardTwo:
     cardLink: /give
