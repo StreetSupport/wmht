@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "West Midlands Homelessness Taskforce"
+disableKinds = ["RSS", "taxonomyTerm"]
+[blackfriday]
+   hrefTargetBlank = true
