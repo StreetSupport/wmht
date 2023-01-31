@@ -1,10 +1,7 @@
 ---
-img: /assets/uploads/gmhan-header3.jpeg
 banner:
   bannerHeading: Contribute to the Network!
-  bannerCopy: Express your interest now in joining a [GMHAN Task Group](/news-and-events/task-group-eoi).
 tagline: >-
-  The Greater Manchester Homeless Action Network (GMHAN) brings together
   everyone across Greater Manchester working to end homelessness:
 
 
