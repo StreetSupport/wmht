@@ -32,6 +32,7 @@ toolkit:
 c2cResources:
   body: >-
     A collection of other useful resources in the C2C toolkit:
+    
 
     * [EEA National Children in Need](/#)
 
