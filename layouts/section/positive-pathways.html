@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div id="main">
+  <div class="container">
+    <div class="content">
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+      <img class="positive-pathways-img" src="/assets/positive-pathways.png" alt="positive pathways diagram">
+      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
+    </div>
+
+    <div class="block block--highlight block--highlight-grey">
+      <h2 class="h3">{{ .Params.resources.heading }}</h2>
+      <p>{{ partial "bodyMarkdown.html" .Params.resources.body }}</p>
+    </div>
+  </div>
+ </div> 
+
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}

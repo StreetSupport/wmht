@@ -1,46 +1,23 @@
 <nav>
-  <div id="logo">wmht-logo</div>
-
   <label for="drop" class="toggle">Menu</label>
   <input type="checkbox" id="drop" />
-      <ul class="menu">
-          <li><a href="/">Home</a></li>
-          <li><a href="/homelessness-advice">Homelessness Advice</a></li>
-          <li><a href="/support-us">Support Us</a></li>
-          <li>
-            <!-- First Tier Drop Down -->
-            <label for="drop-1" class="toggle">Resources</label>
-            <a href="/resources">Resources</a>
-            <input type="checkbox" id="drop-1"/>
-            <ul>
-              <li><a href="/commitment-to-collaborate">Commitment to collaborate</a></li>
-              <li><a href="/nprf">NPRF</a></li>
-              <li><a href="/for-organisations">Resources for organisations</a></li>
-            </ul> 
-          </li>
-          <li><a href="/contact">Contact</a></li>
-      </ul>
-  </nav>
-
-
-<script>
-    const navSlide = () => {
-      const burger = document.querySelector('.burger');
-      const nav = document.querySelector('.nav-links');
-      const navLinks = document.querySelectorAll('.nav-links li');
-  
-      burger.addEventListener('click', ()=>{
-        nav.classList.toggle('nav-active');
-  
-        navLinks.forEach((link, index) => {
-          if (link.style.animation) {
-            link.style.animation = '';
-          } else {
-          link.style.animation = `navLinkFade 0.5s ease forwards ${index / 7 + 0.4}s`;
-          }
-          });
-          burger.classList.toggle('toggle');
-      });
-  }
-  navSlide();
-  </script>
+  <ul class="menu">
+    <li><a href="/">Home</a></li>
+    <li><a href="/commitment-to-collaborate">C2C</a></li>
+    <li><a href="/give">Give</a></li>
+    <li>
+      <!-- First Tier Drop Down -->
+      <label for="drop-1" class="toggle">Areas of Work</label>
+      <a href="/resources">Areas of Work</a>
+      <input type="checkbox" id="drop-1"/>
+      <ul>
+        <li><a href="/businesses">Businesses</a></li>
+        <li><a href="/faith-and-community-groups">Faith & Community Groups</a></li>
+        <li><a href="/families-and-young-people">Families & Young People</a></li>
+        <li><a href="/nprf">NPRF</a></li>
+        <li><a href="/rough-sleeping">Rough Sleeping</a></li>
+      </ul> 
+    </li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
+</nav>

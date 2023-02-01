@@ -9,6 +9,17 @@
   }
 }
 
+.agc-logo {
+  width: 200px;
+  float: right;
+  margin: 0 15px 15px 0;
+
+  @media (max-width: $break-med) {
+    float: none;
+    width: 80%;
+  }
+}
+
 .ssn-logo {
   width: 300px;
   float: right;
@@ -29,4 +40,10 @@
     float: none;
     width: 80%;
   }
+}
+
+.positive-pathways-img {
+  width: 80%;
+  margin: 0 auto;
+  transform: translateX(10%)
 }
