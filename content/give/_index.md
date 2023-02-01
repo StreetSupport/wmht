@@ -1,12 +1,14 @@
 ---
 content:
-  body: The number of people sleeping rough on our streets has increased significantly in recent years.
+  body: >- 
+  
+    The number of people sleeping rough on our streets has increased significantly in recent years.
 
 
-        The knock on effect is increased pressure on the support network that helps rough sleepers, teams that are committed to working with individuals to provide accommodation, hot meals, medical treatment and ultimately a better future.
+    The knock on effect is increased pressure on the support network that helps rough sleepers, teams that are committed to working with individuals to provide accommodation, hot meals, medical treatment and ultimately a better future.
 
 
-        That’s why we invite you to join us in working together so that every member of the community can turn small change into big change.
+    That’s why we invite you to join us in working together so that every member of the community can turn small change into big change.
   heading: How you can give to help end homelessness
 highlightTop:
   body: >-
@@ -15,6 +17,10 @@ highlightTop:
 
       Change into action is available in [Birmingham](https://google.com), [Coventry](https://google.com), [Dudley](https://google.com), [Sandwell](https://google.com), [Solihull](https://google.com) and [Walsall](https://google.com).
   heading: Change into action
+highlightBottom:
+  body: >-
+    [Alternative Giving CIO](https://wolverhamptonchange.co.uk) (Charity No. 1186415) is an opportunity for everyone and anyone to make the choice to give, donate and support those in need. Your donation will help to change the way in which we help people at risk of homelessness in the city by ensuring all funds raised reach those currently in severe hardship.
+  heading: Alternative Giving CIO - Wolverhampton
 highlightLeft:
   body: >-
     Local community and charitable organisations are the frontline of our

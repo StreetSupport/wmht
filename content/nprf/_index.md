@@ -1,9 +1,16 @@
 ---
 content:
   body: >-
-    rhoncus elit. Maecenas ac rutrum urna. Vestibulum quis faucibus est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eleifend sed dui ac sodales. Morbi non porta nisi. Suspendisse ultricies est nec nulla elementum, ut luctus lectus suscipit. 
+    The WMCA region has a highly diverse population, as such there is recognition of the need to understand and address the range of specific experiences and causes of homelessness for non-UK nationals who have no recourse or restricted eligibility to public funds. 
 
-    rhoncus elit. Maecenas ac rutrum urna. Vestibulum quis faucibus est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec eleifend sed dui ac sodales. Morbi non porta nisi. Suspendisse ultricies est nec nulla elementum, ut luctus lectus suscipit. 
+
+    The Homelessness Taskforce’s No Recourse to Public Funds and Homelessness Task Group is working with a wide range of partners to lead the contribution to and promotion of designing out homelessness for individuals and families that have no recourse or restricted eligibility to public funds in the WMCA region. 
+
+
+    The group is looking at a wide range of circumstances around the issue of no recourse and restricted eligibility to public funds and the impact specifically on homelessness, including individuals and families that may have this as a specified visa condition, as well as those who are undocumented and living in the region.
+
+
+    Recently the group convened a conference to bring partners together to share practice and to consider the government’s new rough sleeping strategy and what it would mean in practice to  ‘exhaust all options’ for those with no recourse to public funds experiencing homelessness. 
 
   heading: NPRF
 resources:
