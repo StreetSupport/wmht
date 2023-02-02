@@ -18,14 +18,6 @@
   <meta property="og:description" content="West Midlands Homelessness Taskforce - bringing everyone together in The West Midlands who are working to end homelessness"/>
   <title>{{.Title}} {{.Site.Title}}</title>
 
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-131667660-1');
-  </script>
-
   <!-- stylesheet -->
   {{ $styleSass := resources.Get "sass/site.scss" }}
   {{ $styleCSS := $styleSass | resources.ToCSS }}
