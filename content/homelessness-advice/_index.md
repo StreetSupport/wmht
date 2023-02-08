@@ -1,35 +1,56 @@
 ---
 content:
   body: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id ex sit amet ligula lacinia feugiat. Ut ultricies volutpat lectus, et semper augue pharetra vitae. Aliquam erat volutpat. In sollicitudin massa felis, vitae dignissim arcu euismod vel. Morbi sit amet dui nunc. Etiam tempus tortor eget magna feugiat, eu mattis metus consectetur. Sed porttitor diam elit, non sagittis arcu fermentum vitae. Donec quis dui urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Vestibulum euismod ullamcorper diam sit amet laoreet. Nullam non urna id orci mattis placerat. Aenean felis neque, gravida id gravida non, tincidunt a velit. Nulla a efficitur nisl. Cras nulla lectus, finibus at lectus vitae, malesuada gravida ipsum.
+    The WMCA and the Homelessness Taskforce do not have a role in directly providing services to help people and households at risk of homelessness, our role is to work at a high level with partners to create changes in the structural issues that make homelessness more likely.
+
+    If you want practical help then you can use the Street Support link below which will connect you to help in your area or you can contact your local Homelessness Services through the links here: 
+
+    * Birmingham  - https://www.birmingham.gov.uk/info/50113/advice_and_support/1216/homeless_advice
 
 
-    * [item 1](#)
+    * Coventry  - https://www.coventry.gov.uk/homelessness 
 
-    * [item 2](#)
 
-    * [item 3](#)
+    * Dudley  - https://www.dudley.gov.uk/residents/housing/housing-advice-information-and-support/homelessness/
 
-    * [item 4](#)
-    
 
-    felis, vitae dignissim arcu euismod vel. Morbi sit amet dui nunc. Etiam tempus tortor eget magna feugiat, eu mattis metus consectetur. Sed porttitor diam elit, non sagittis ar
+    * Sandwell - https://www.sandwell.gov.uk/info/200226/find_a_home/2527/homeless_or_at_risk_of_losing_your_home
+
+
+    * Solihull - https://www.solihull.gov.uk/Housing/Homelessness
+
+
+    * Walsall - https://go.walsall.gov.uk/housing/homelessness
+
+    * Wolverhampton - https://www.wolverhampton.gov.uk/housing/homelessness
       
-  heading: Homelessness advice
+  heading: Links to local help in the region
 ssn:
   body: >-
-    Etiam tempus Etiam tempus tortor eget magna feugiat, eu mattis metus consectetur. Sed porttitor diam elit, non sagittis arcu fermentum vitae. Donec quis dui urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, pe
+    Street Support Network works to connect people and organisations to support those who need it the most.
+    
+    
+    Our website is an online hub to find out about homelessness, see what support is available, and see what you can do to help.
+    
+    
+    There’s a few reasons you might visit our website:
 
 
-    * [Find Help](#)
-
-    * [Give Help](#)
+    [Find Help](#)
 
 
-    c. Etiam tempus tortor eget magna feugiat, eu mattis metus consectetur. Sed porttitor diam elit, non sagittis arcu fermentum vitae. Donec quis dui urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, pec. Etiam tempus tortor eget magna feugiat, eu mattis metus consectetur. Sed porttitor diam elit, non sagittis arcu fermentum vitae. Donec quis dui urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, pe
+    * The main reason for using our site is also the main reason it exists - to find help. Whether you’re experiencing homelessness, or you know someone who is, or you’re simply struggling with the increasing cost of living, we have resources to help you. It’s a one-stop-shop for accommodation, healthcare, food, employment services and more, all organised by location.
 
 
-    c. Etiam tempus tortor eget magna feugiat, eu mattis metus consectetur. Sed porttitor diam elit, non sagittis arcu fermentum vitae. Donec quis dui urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, pe
+    [Give Help](#)
+
+    * As well as finding help, you can use Street Support Network if you’d like to give help. Whether you’d like to explore volunteering opportunities, offer items to your local organisations, or donate money, there’s lots of different ways to give.
+
+
+    You can also count on us for information. We have an advice section designed to help those experiencing, or at risk of experiencing homelessness, as well as local news, blogs, and more about who we are and what we do.
+
+
+    If you have a Q, it’s likely we have an A - and if we don’t, we’ll help you find one.
   ssn: Street Support Network
 streetlink:
   body: >-

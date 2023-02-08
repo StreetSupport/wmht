@@ -15,7 +15,7 @@ content:
   heading: NPRF
 resources:
   body: >-
-    List of NPRF resources which include:
+    Resources are as follows: 
     
 
     * [EEA National Children in Need](#)

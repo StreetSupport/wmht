@@ -9,24 +9,13 @@ content:
   heading: Businesses
 resources:
   body: >-
-    List of business resources which include:
+    Resources are as follows:
     
 
-    * 
+    * [Designing out Homelessness Full Toolkit](#)
 
 
-    * 
+    * [Designing out Homelessness checklist](#)
 
-
-    * 
-
-
-    * 
-
-
-    * 
-    
-
-    * 
   heading: Business Resources
 ---
