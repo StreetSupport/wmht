@@ -12,7 +12,7 @@ content:
   heading: The Positive Pathways Model
 resources:
   body: >-
-    Positive pathways resources:
+    Resources are as follows: 
     
 
     * [Positive Pathways Model Briefing Paper](#)
