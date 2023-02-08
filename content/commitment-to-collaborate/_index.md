@@ -31,12 +31,8 @@ toolkit:
 
 c2cResources:
   body: >-
-    A collection of other useful resources in the C2C toolkit:
+    Resources are as follows:
     
-
-    * [EEA National Children in Need](/#)
-
-    * [Children in Need and Immigration and Citizenship Matters](/#)
     
     * [Case study toolkit](/#)
 

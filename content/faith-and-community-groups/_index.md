@@ -12,24 +12,10 @@ content:
   heading: Faith and Community Groups
 resources:
   body: >-
-    List of faith and community group resources which include:
+    Resources are as follows: 
     
 
-    * 
+    * [WMCA Designing out homelessness with Faith and Community Groups Booklet](#)
 
-
-    * 
-
-
-    * 
-
-
-    * 
-
-
-    * 
-    
-
-    * 
   heading: Faith and Community Group Resources
 ---

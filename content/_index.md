@@ -19,7 +19,7 @@ whatIs:
     Following the election of Andy Street as Mayor of the West Midlands in 2017, the Homelessness Taskforce was established with a commitment to bring together organisations, people and resources to tackle homelessness. 
 
     
-    Today, the Taskforce Steering Group comprises all seven constituent local authorities, key public sector agencies, voluntary and community sector organisations and representation from the business community. In addition, there is a [Members Advisory Group](#) made up of Cabinet Members with responsibility for homelessness from each of the seven constituent authorities, bolstering political leadership and accountability.
+    Today, the Taskforce Steering Group comprises all seven constituent local authorities, key public sector agencies, voluntary and community sector organisations and representation from the business community. In addition, there is a Members Advisory Group made up of Cabinet Members with responsibility for homelessness from each of the seven constituent authorities, bolstering political leadership and accountability.
 
 
     The Homelessness Taskforce’s central aim is to [design out homelessness](/designing-out-homelessness), in all its forms, by identifying gaps in strategies, policies, procedures, laws, structures, systems and relationships that either cause or fail to prevent homelessness. The purpose of the Taskforce has been to identify conditions for systems change by addressing these gaps.
@@ -30,7 +30,7 @@ whatHave:
     In the 5 years since the Taskforce’s inception in 2017 the environment in which we have been working has changed dramatically and the pressures on households and services has increased.  
 
 
-    Covid-19 and subsequent lockdowns had significant impacts on both what organisations were focused on and how they worked to tackle emerging challenges.  During the periods of lockdown and restricted social contact we continued to support partners to deliver outcomes for households at risk of homelessness.  We also captured [learning](#) from the region’s collective response to the Everyone In initiative and [analysed](#) how practice and systems had adapted in positive ways to help overcome the significant challenges presented by Covid – 19. 
+    Covid-19 and subsequent lockdowns had significant impacts on both what organisations were focused on and how they worked to tackle emerging challenges.  During the periods of lockdown and restricted social contact we continued to support partners to deliver outcomes for households at risk of homelessness.  We also captured learning from the region’s collective response to the Everyone In initiative and analysed how practice and systems had adapted in positive ways to help overcome the significant challenges presented by Covid – 19. 
 
 
     More recently, the rises in inflation, fuel and other critical factors  have contributed to creating a cost of living crisis that we are still in the midst of; and crucially are yet to see the full impact of.  
