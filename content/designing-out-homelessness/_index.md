@@ -15,18 +15,16 @@ resources:
     * [Designing Out Homelessness Brifing Paper](#)
 
 
-    * []
+    * [Designing out Homelessness Checklist](#)
 
 
-    * 
+    * [Designing out Homelessness Full Toolkit](#)
 
 
-    * 
+    * [WMCA Designing Out Homelessness with Faith and Community Groups Booklet](#)
 
 
-    * 
+    * [WMCA Designing Out Veterans Homelessness Report](#)
     
-
-    * 
   heading: Designing Out Homelessness Resources
 ---
