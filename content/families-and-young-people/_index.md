@@ -21,7 +21,7 @@ content:
 
     An important part of the early work of the group has been to explore effective ways of promoting gender responsive trauma informed approaches to supporting women affected by DA and homelessness. 
 
-  heading: Families and Young People
+  heading: Children, Families and Young People
 resources:
   body: >-
     Resources are as follows: 
@@ -33,5 +33,5 @@ resources:
     * [WMCA Homelessness Taskforce – Families in TA – summary report](#)
 
 
-  heading: Families and Young People Resources
+  heading: Children, Families and Young People Resources
 ---
