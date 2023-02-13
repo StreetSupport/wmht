@@ -7,7 +7,7 @@ content:
     It is recognised that homelessness is not a linear process or experience, the positive pathway approach therefore looks to ensure that support is provided across all areas where someone may need it. 
 
 
-    Consequently, the Homelessness Taskforce seeks to work with partners in ensuring approaches and support are developed across all areas of the pathway. This contributes in working towards our overall aim of designing out homelessness across the region.
+    Consequently, the Homelessness Taskforce seeks to work with partners in ensuring approaches and support are developed across all areas of the pathway. This contributes in working towards our overall aim of Designing out Homelessness across the region.
 
   heading: The Positive Pathways Model
 resources:
