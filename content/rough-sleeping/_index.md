@@ -14,6 +14,28 @@ content:
 
   heading: Rough Sleeping
 
+roughSleepingInit:
+  body: >-
+    Since 2020 the WMCA Homelessness Taskforce has been successful in securing funding from the Department for Levelling Up Housing and Communities (DLUHC) Rough Seeping Initiative. This funding to the WMCA from DLUHC has been awarded in addition to Rough Sleeping Initiative (RSI) funding allocated to our constituent local authorities. 
+
+
+    The intention of the WMCA RSI programme is to develop region wide initiatives aimed at system change through to those testing out innovation in service delivery, to add value to the work of local authority partners.
+
+
+    We have produced two key learning reports covering the work undertaken in 2020/21 and 2021/22. 
+  heading: Rough Sleeping Initiative
+
+roughSleepingResources:
+  body: >-
+    Resources are as follows:
+
+
+    * [link 1](#)
+
+
+    * [link 2](#)
+  heading: Rough Sleeping Resources
+
 housingFirst:
     body: >-
       In 2018 we secured Government funding alongside Greater Manchester and Liverpool to pilot the Housing First approach across the region. 
@@ -48,5 +70,5 @@ resources:
 
     * [RSI 2021 -22 Key achievements learning report](#)
 
-  heading: Rough Sleeping Resources
+  heading: Housing First Resources
 ---

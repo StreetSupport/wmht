@@ -6,16 +6,28 @@
     <div class="content">
       <h1 class="h1">{{ .Params.content.heading }}</h1>
       <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
-      <h3 class="h3">{{ .Params.housingFirst.heading }}</h3>
-      <p>{{ partial "bodyMarkdown.html" .Params.housingFirst.body }}</p>
+      <h3 class="h3">{{ .Params.roughSleepingInit.heading }}</h3>
+      <p>{{ partial "bodyMarkdown.html" .Params.roughSleepingInit.body }}</p>
+      <a href="/alternative-giving"><button class="btn">Alternative Giving</button></a>
+
+      <div class="block block--highlight block--highlight-grey">
+        <h2 class="h3">{{ .Params.roughSleepingResources.heading }}</h2>
+        <p>{{ partial "bodyMarkdown.html" .Params.roughSleepingResources.body }}</p>
+      </div>
     </div>
 
-    <div class="block block--highlight block--highlight-grey">
-      <h2 class="h3">{{ .Params.resources.heading }}</h2>
-      <p>{{ partial "bodyMarkdown.html" .Params.resources.body }}</p>
+    <div class="content">
+      <h3 class="h3">{{ .Params.housingFirst.heading }}</h3>
+      <p>{{ partial "bodyMarkdown.html" .Params.housingFirst.body }}</p>
+
+      <div class="block block--highlight block--highlight-grey">
+        <h2 class="h3">{{ .Params.resources.heading }}</h2>
+        <p>{{ partial "bodyMarkdown.html" .Params.resources.body }}</p>
+      </div>
     </div>
+
   </div>
- </div> 
+</div> 
 
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}

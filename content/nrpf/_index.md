@@ -12,7 +12,7 @@ content:
 
     Recently the group convened a conference to bring partners together to share practice and to consider the government’s new rough sleeping strategy and what it would mean in practice to  ‘exhaust all options’ for those with no recourse to public funds experiencing homelessness. 
 
-  heading: NPRF
+  heading: NRPF
 resources:
   body: >-
     Resources are as follows: 
@@ -30,9 +30,9 @@ resources:
     * [Exhaust all Options - LCN Report](#)
 
 
-    * [NPRF Conference](#)
+    * [NRPF Conference](#)
     
 
-    * [Social Workers NPRF Toolkit](#)
-  heading: NPRF Resources
+    * [Social Workers NRPF Toolkit](#)
+  heading: NRPF Resources
 ---

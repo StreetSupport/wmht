@@ -1,12 +1,12 @@
 ---
 contact:
   body: >-
-    If you want to find out more about anything you have read on the site or have queries related to the general work of the WMCA Homelessness Taskforce then please contact us using the email below:
+    If you want to find out more about the strategic work of the WMCA Homelessness Taskforce or want to find out about how you can use any of the resources we have shared on the site then please contact us using the email below:
+
+    * [Street Support West Midlands](https://streetsupport.net/wm)
 
 
-    [homelessness@wmca.org.uk](mailtio:homelessness@wmca.org.uk)
-    
+    * [info@wmhtf.net](mailto:info@wmhtf.net)
 
-    If you need to contact your Local Authority about help with homelessness then go to [Street Support West Midlands](https://streetsupport.net/wm) and click through to find the contact details relevant to your area. 
   heading: Contact us
 ---

@@ -1,29 +1,30 @@
 ---
 content:
   body: >-
-    The WMCA and the Homelessness Taskforce do not have a role in directly providing services to help people and households at risk of homelessness, our role is to work at a high level with partners to create changes in the structural issues that make homelessness more likely.
-
-    If you want practical help then you can use the Street Support link below which will connect you to help in your area or you can contact your local Homelessness Services through the links here: 
-
-    * Birmingham  - https://www.birmingham.gov.uk/info/50113/advice_and_support/1216/homeless_advice
+    Homelessness is not a devolved power to the Mayor of the West Midlands or West Midlands Combined Authority. The primary responsibility and statutory duty for homelessness sits at local authority level.  Our role is to bring together organisations, people and resources to tackle homelessness and add value to the work of our local authorities
 
 
-    * Coventry  - https://www.coventry.gov.uk/homelessness 
+    If you need practical help then you can use the Street Support link below which will connect you to help in your area or you can contact your local Homelessness Services through the links here: 
+
+    * [Birmingham](https://streetsupport.net/birmingham)  
 
 
-    * Dudley  - https://www.dudley.gov.uk/residents/housing/housing-advice-information-and-support/homelessness/
+    * [Coventry](https://streetsupport.net/coventry) 
 
 
-    * Sandwell - https://www.sandwell.gov.uk/info/200226/find_a_home/2527/homeless_or_at_risk_of_losing_your_home
+    * [Dudley](#)  
 
 
-    * Solihull - https://www.solihull.gov.uk/Housing/Homelessness
+    * [Sandwell](#) 
 
 
-    * Walsall - https://go.walsall.gov.uk/housing/homelessness
+    * [Solihull](#) 
 
-    * Wolverhampton - https://www.wolverhampton.gov.uk/housing/homelessness
-      
+
+    * [Walsall](#) 
+
+
+    * [Wolverhampton](#) 
   heading: Links to local help in the region
 ssn:
   body: >-

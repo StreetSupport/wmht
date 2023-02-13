@@ -1,7 +1,6 @@
 ---
 content:
-  body: >- 
-  
+  body: >-
     The number of people sleeping rough on our streets has increased significantly in recent years.
 
 
@@ -12,10 +11,10 @@ content:
   heading: How you can give to help end homelessness
 highlightTop:
   body: >-
-      Change into Action is an alternative giving scheme that provides a safe, easy and secure way for you to donate money to fund practical support for people who are or have been rough sleeping in the . The scheme is administered and managed locally and brings together partners from key local organisations, such as specialist homelessness charities and street teams that work with individuals to identify those things that can really make a difference and help to move away from the streets. Your donation will directly benefit a person sleeping rough or at risk.
+    [Change into Action](https://changeintoaction.org.uk) is an alternative giving scheme that provides a safe, easy and secure way to donate money to fund practical support for people who are or have been rough sleeping across the WMCA region. Change into Action brings together partners from key local organisations, such as specialist homelessness charities and street teams that work with individuals to identify practical measures that can really make a difference and help make that move away from the streets. 
 
 
-      Change into action is available in [Birmingham](https://google.com), [Coventry](https://google.com), [Dudley](https://google.com), [Sandwell](https://google.com), [Solihull](https://google.com) and [Walsall](https://google.com).
+    The scheme is administered and managed locally in Birmingham, Coventry, Dudley, Sandwell, Solihull and Walsall; with Wolverhampton having a similar initiative known as [Alternative Giving CIO](https://wolverhamptonchange.co.uk). 
   heading: Change into action
 highlightBottom:
   body: >-
