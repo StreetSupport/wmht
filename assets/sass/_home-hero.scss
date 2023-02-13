@@ -1,20 +1,14 @@
 .home-hero {
-  background: #fff;
+  background: url(/assets/west-mids-header.png);
+  height: 450px;
 }
 
 .home-hero_title {
   font-family: oxygen;
   color: #655a64; 
   font-size: 48px; 
+  margin: 0 20px;
+  padding-top: 100px;
   text-align: center; 
-  margin: 200px 0 0 0;
-}
-
-.home-hero-sub-title {
-  font-family: oxygen;
-  color: #655a64; 
-  font-size: 38px; 
-  text-align: center; 
-  margin: 0 0 200px 0;
 }
 
