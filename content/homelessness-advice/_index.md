@@ -5,6 +5,7 @@ content:
 
 
     If you need practical help then you can use the Street Support link below which will connect you to help in your area or you can contact your local Homelessness Services through the links here: 
+    
 
     * [Birmingham](https://streetsupport.net/birmingham)  
 
