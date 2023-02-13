@@ -3,4 +3,5 @@ languageCode = "en-gb"
 title = "West Midlands Homelessness Taskforce"
 disableKinds = ["RSS", "taxonomyTerm"]
 [blackfriday]
+  fractions = false
    hrefTargetBlank = true
