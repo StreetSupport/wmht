@@ -14,7 +14,7 @@ c2c:
 
 nrpf:
   body: >-
-    Some information about designing out homelessness. erat volutpat. In sollicitudin massa felis, vitae dignissim arcu euismod vel. Morbi sit amet dui nunc. Etiam tempus tortor eget magna feugiat, eu. 
+    Some information about Designing out Homelessness. erat volutpat. In sollicitudin massa felis, vitae dignissim arcu euismod vel. Morbi sit amet dui nunc. Etiam tempus tortor eget magna feugiat, eu. 
     
     Learn more about [Designing Out Homelessness...](/designing-out-homelessness)
   heading: Designing Out Homelessness

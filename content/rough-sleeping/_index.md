@@ -22,7 +22,7 @@ roughSleepingInit:
     The intention of the WMCA RSI programme is to develop region wide initiatives aimed at system change through to those testing out innovation in service delivery, to add value to the work of local authority partners.
 
 
-    We have produced two key learning reports covering the work undertaken in 2020/21 and 2021/22. 
+    We have produced two key learning reports covering the work undertaken in 2020/2021 and 2021/2022. 
   heading: Rough Sleeping Initiative
 
 roughSleepingResources:
@@ -68,7 +68,7 @@ resources:
     * [RSI 2020-21 Key Achievements and Learning report](#)
 
 
-    * [RSI 2021 -22 Key achievements learning report](#)
+    * [RSI 2021-22 Key achievements learning report](#)
 
   heading: Housing First Resources
 ---

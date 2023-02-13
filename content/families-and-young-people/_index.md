@@ -4,7 +4,7 @@ content:
     The numbers of families and young people who are homeless or at risk of becoming homeless across the region is significant. 
 
 
-    The Homelessness Taskforce’s Children, Families and Young People’s Task Group is working with a wide range of partners to lead the contribution to and promotion of designing out homelessness for children, families and young people in the WMCA region.
+    The Homelessness Taskforce’s Children, Families and Young People’s Task Group is working with a wide range of partners to lead the contribution to and promotion of Designing out Homelessness for children, families and young people in the WMCA region.
 
 
     The main focus of the group is to promote and encourage early prevention activity that leads to a reduction in the number and time households spend in temporary accommodation; and an increase in the number of households in secure and affordable accommodation. 
