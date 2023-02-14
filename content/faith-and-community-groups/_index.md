@@ -15,7 +15,7 @@ resources:
     Resources are as follows: 
     
 
-    * [WMCA Designing out homelessness with Faith and Community Groups Booklet](#)
+    * [WMCA Designing out homelessness with Faith and Community Groups Booklet](/assets/resources/wmca-designing-out-homelessness-with-fairth-and-community-groups-booklet.pdf)
 
   heading: Faith and Community Group Resources
 ---

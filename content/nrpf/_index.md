@@ -18,21 +18,21 @@ resources:
     Resources are as follows: 
     
 
-    * [EEA National Children in Need](#)
+    * [EEA National Children in Need](/assets/resources/nrpf/FINAL-EEA-National-Children-in-Need.pdf)
 
 
-    * [Children in Need and Immigration and Citizenship Matters](#)
+    * [Children in Need and Immigration and Citizenship Matters](/assets/resources/nrpf/FINAL-Children-in-Need-and-Immigration-and-Citizenship-Matters.pdf)
 
 
-    * [Domestic violance and immigration](#)
+    * [Domestic violance and immigration](/assets/resources/nrpf/domestic-violence-and-immigration.pdf)
 
 
-    * [Exhaust all Options - LCN Report](#)
+    * [Exhaust all Options - LCN Report](/assets/resources/nrpf/exhaust-all-options.pdf)
 
 
-    * [NRPF Conference](#)
+    * [NRPF Conference](/assets/resources/nrpf/NRPF-conference-slide-deck.pptx)
     
 
-    * [Social Workers NRPF Toolkit](#)
+    * [Social Workers NRPF Toolkit](/assets/resources/nrpf/social-workers-nrpf-toolkit-2022.pdf)
   heading: NRPF Resources
 ---

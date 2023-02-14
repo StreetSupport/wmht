@@ -15,7 +15,7 @@ resources:
     Resources are as follows: 
     
 
-    * [Positive Pathways Model Briefing Paper](#)
+    * [Positive Pathways Model Briefing Paper](/assets/resources/postitive-pathways-model-briefing-paper.pdf)
 
   heading: Positive Pathways Resources
 ---

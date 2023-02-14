@@ -16,8 +16,8 @@ nrpf:
   body: >-
     Some information about Designing out Homelessness. erat volutpat. In sollicitudin massa felis, vitae dignissim arcu euismod vel. Morbi sit amet dui nunc. Etiam tempus tortor eget magna feugiat, eu. 
     
-    Learn more about [Designing Out Homelessness...](/designing-out-homelessness)
-  heading: Designing Out Homelessness
+    Learn more about [Designing out Homelessness...](/designing-out-homelessness)
+  heading: Designing out Homelessness
 
 otherResources:
   body: >-

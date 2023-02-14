@@ -30,10 +30,11 @@ roughSleepingResources:
     Resources are as follows:
 
 
-    * [link 1](#)
+    * [RSI 2020-21 Key Achievements and Learning report](/assets/resources/rsi-2020-21-key-achievements-learning-report-final.pdf)
+    
+    
+    * [RSI 2021-22 Key Achievements and Learning report](/assets/resources/rsi-2021-22-key-achievements-learning-report.pdf)
 
-
-    * [link 2](#)
   heading: Rough Sleeping Resources
 
 housingFirst:
@@ -59,16 +60,10 @@ resources:
     Resources are as follows: 
     
 
-    * [WMCA Housing First Research Project Final report](#)
+    * [WMCA Housing First Research Project (final report)](/assets/resources/WMCA-housing-first-research-project-FINAL-Report.pdf)
 
 
-    * [WMCA Housing First Research Project exec summary](#)
-
-
-    * [RSI 2020-21 Key Achievements and Learning report](#)
-
-
-    * [RSI 2021-22 Key achievements learning report](#)
+    * [WMCA Housing First Research Project (exec summary)](/assets/resources/WMCA-housing-first-research-EXECUTIVE-SUMMARY-FINAL.pdf)
 
   heading: Housing First Resources
 ---

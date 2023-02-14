@@ -14,10 +14,10 @@ about:
   heading: Commitment to Collaborate (C2C)
 toolkit:
   body: >-
-    We recommend that you start by downloading and reading the [Roundtable Approach toolkit guide](#).  This gives you the background information you'll need to get started.
+    We recommend that you start by downloading and reading the [Roundtable Approach toolkit guide](/assets/resources/c2c/c2c-roundtable-slides.pptx). This gives you the background information you'll need to get started.
 
 
-    Once you've read it you may come to the conclusion that you want to use the alternative version we have prepared with a case study for you to use, in which case look at the [Case Study Approach toolkit guide](#).
+    Once you've read it you may come to the conclusion that you want to use the alternative version we have prepared with a case study for you to use, in which case look at the [Case Study Approach toolkit guide](/assets/resources/c2c/c2c-case-study-slides.pptx).
 
 
     For both approaches there are sets of Powerpoint slides, with instructions in the notes section, for both approaches.
@@ -34,20 +34,20 @@ c2cResources:
     Resources are as follows:
     
     
-    * [Case study toolkit](/#)
+    * [Case study toolkit](/assets/resources/c2c/c2c-case-study-toolkit-guide.pdf)
 
-    * [Pledge template](/#)
+    * [Pledge template](/assets/resources/c2c/c2c-pledge-template.pdf)
 
-    * [Toolkit discussion log](/#)
+    * [Toolkit discussion log](/assets/resources/c2c/c2c-toolkit-discussion-log.pdf)
 
-    * [JAS case study](/#)
+    * [JAS case study](/assets/resources/c2c/c2c-toolkit-jas-case-study.pdf)
 
-    * [Writable action plan](/#)
+    * [Writable action plan](/assets/resources/c2c/c2c-writable-action-plan.pdf)
 
-    * [Writable pledges](/#)
+    * [Writable pledges](/assets/resources/c2c/c2c-writable-pledges.pdf)
 
-    * [Printable Pledges and actions](/#)
+    * [Printable Pledges and actions](/assets/resources/c2c/printable-pledges-and-actions-copy.pdf)
 
-    * [Process for awarding the logo](/#)
+    * [Process for awarding the logo](/assets/resources/c2c/process-for-awarding-the-logo.pdf)
   heading: All C2C resources
 ---

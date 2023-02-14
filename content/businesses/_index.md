@@ -12,10 +12,10 @@ resources:
     Resources are as follows:
     
 
-    * [Designing out Homelessness Full Toolkit](#)
+    * [Designing out Homelessness Full Toolkit](/assets/resources/desiging-out-homelessness-full-toolkit.pdf)
 
 
-    * [Designing out Homelessness checklist](#)
+    * [Designing out Homelessness checklist](/assets/resources/designing-out-homelessness-checklist.pdf)
 
   heading: Business Resources
 ---
