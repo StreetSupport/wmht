@@ -12,7 +12,7 @@ content:
 
     Recently the group convened a conference to bring partners together to share practice and to consider the government’s new rough sleeping strategy and what it would mean in practice to  ‘exhaust all options’ for those with no recourse to public funds experiencing homelessness. 
 
-  heading: NRPF
+  heading: No Recourse to Public Funds (NRPF)
 resources:
   body: >-
     Resources are as follows: 

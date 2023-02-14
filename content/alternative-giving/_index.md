@@ -1,10 +1,7 @@
 ---
 content:
   body: >-
-    The number of people sleeping rough on our streets has increased significantly in recent years.
-
-
-    The knock on effect is increased pressure on the support network that helps rough sleepers, teams that are committed to working with individuals to provide accommodation, hot meals, medical treatment and ultimately a better future.
+    We all want to help reduce the impact of rough sleeping at the same time as we work to reduce the numbers of people who end up living on the streets. One of the ways we can help in an effective way is by using 'alternative giving' schemes rather than giving money to people individually. 
 
 
     That’s why we invite you to join us in working together so that every member of the community can turn small change into big change.
