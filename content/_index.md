@@ -2,16 +2,10 @@
 ctaCards:
   cardOne:
     cardLink: /positive-pathways
-    cardText: Find out about the latest updates and activities from across the Network
-    cardTitle: News & Events
   cardTwo:
     cardLink: /designing-out-homelessness
-    cardText: Find out the most effective ways to donate to end homelessness
-    cardTitle: Give
   cardThree:
-    cardLink: /homelessness-advice/
-    cardText: Learn  is doing to end homelessness
-    cardTitle: About
+    cardLink: /commitment-to-collaborate/
 content:
   heading: WMCA Homelessness Taskforce
 whatIs:
