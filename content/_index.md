@@ -23,7 +23,7 @@ whatHave:
     In the 5 years since the Taskforce’s inception in 2017 the environment in which we have been working has changed dramatically and the pressures on households and services has increased.  
 
 
-    Covid-19 and subsequent lockdowns had significant impacts on both what organisations were focused on and how they worked to tackle emerging challenges. During the periods of lockdown and restricted social contact we continued to support partners to deliver outcomes for households at risk of homelessness. We also captured learning from the region’s collective response to the Everyone In initiative and analysed how practice and systems had adapted in positive ways to help overcome the significant challenges presented by Covid – 19. 
+    Covid-19 and subsequent lockdowns had significant impacts on both what organisations were focused on and how they worked to tackle emerging challenges. During the periods of lockdown and restricted social contact we continued to support partners to deliver outcomes for households at risk of homelessness. We also captured [learning](/assets/resources/WMCA-Covid-19-homelessness-Positioning-Final.pdf) from the region’s collective response to the Everyone In initiative and analysed how [practice and systems had adapted](/assets/resources/homelessness-and-covid19-changes-in-perception-and-practice.pdf) in positive ways to help overcome the significant challenges presented by Covid – 19. 
 
 
     More recently, the rises in inflation, fuel and other critical factors have contributed to creating a cost of living crisis that we are still in the midst of; and crucially are yet to see the full impact of.  
