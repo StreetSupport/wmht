@@ -13,19 +13,19 @@ content:
     * [Coventry](https://streetsupport.net/coventry) 
 
 
-    * [Dudley](#)  
+    * [Dudley](https://streetsupport.net/dudley)  
 
 
-    * [Sandwell](#) 
+    * [Sandwell](https://streetsupport.net/sandwell) 
 
 
-    * [Solihull](#) 
+    * [Solihull](https://streetsupport.net/solihull) 
 
 
-    * [Walsall](#) 
+    * [Walsall](https://streetsupport.net/walsall) 
 
 
-    * [Wolverhampton](#) 
+    * [Wolverhampton](https://streetsupport.net/wolverhampton) 
   heading: Links to local help in the region
 ssn:
   body: >-
@@ -45,6 +45,7 @@ ssn:
 
 
     [Give Help](#)
+    
 
     * As well as finding help, you can use Street Support Network if you’d like to give help. Whether you’d like to explore volunteering opportunities, offer items to your local organisations, or donate money, there’s lots of different ways to give.
 

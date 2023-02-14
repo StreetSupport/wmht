@@ -28,6 +28,6 @@ highlightLeft:
     achieve.
 
 
-    To see what organisations are active in your area, go to the [Street Support website](https://streetsupport.net).
+    To see what organisations are active in your area, go to the [Street Support website](https://streetsupport.net/give-help).
   heading: Give to organisations
 ---
