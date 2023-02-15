@@ -1,4 +1,5 @@
 ---
+title: Alternative Giving
 content:
   body: >-
     We all want to help reduce the impact of rough sleeping at the same time as we work to reduce the numbers of people who end up living on the streets. One of the ways we can help in an effective way is by using 'alternative giving' schemes rather than giving money to people individually. 

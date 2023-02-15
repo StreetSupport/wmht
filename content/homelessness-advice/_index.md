@@ -1,4 +1,5 @@
 ---
+title: Homelessness Advice
 content:
   body: >-
     Homelessness is not a devolved power to the Mayor of the West Midlands or West Midlands Combined Authority. The primary responsibility and statutory duty for homelessness sits at local authority level.  Our role is to bring together organisations, people and resources to tackle homelessness and add value to the work of our local authorities

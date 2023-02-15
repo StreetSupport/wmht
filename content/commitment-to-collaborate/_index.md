@@ -1,4 +1,5 @@
 ---
+title: Commitment to Collaborate
 about:
   body: >-
     The Commitment to Collaborate (C2C) to Prevent and Relieve Homelessness Toolkit has been developed by the WMCA Homelessness Taskforce in partnership with Birmingham Voluntary Service Council (BVSC) to support organisations and partnerships across the region to think about what actions they can take to prevent and relieve homelessness.

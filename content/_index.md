@@ -1,4 +1,5 @@
 ---
+title: Home
 ctaCards:
   cardOne:
     cardLink: /positive-pathways

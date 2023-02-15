@@ -1,4 +1,5 @@
 ---
+title: Faith and Community Groups
 content:
   body: >-
     We recognise the importance of working in partnership with faith and community groups to design, coproduce and deliver new approaches to the prevention of homelessness. 
