@@ -1,4 +1,5 @@
 ---
+title: Businesses
 content:
   body: >-
     Our work with the business community has taught us that businesses have a wider purpose; as employers they can contribute to our ambition of Designing out Homelessness because access to good employment can act as a preventative measure as well as a sustainable route out of homelessness. 

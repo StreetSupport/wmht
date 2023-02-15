@@ -1,4 +1,5 @@
 ---
+title: Rough Sleeping
 content:
   body: >-
     The Homelessness Taskforce’s Rough Sleeping Task Group is working to coordinate activity to end rough sleeping across the WMCA region.  Currently the group is working with the Centre for Homelessness Impact as one of five early adopter areas to define what it will mean to successfully end rough sleeping. 

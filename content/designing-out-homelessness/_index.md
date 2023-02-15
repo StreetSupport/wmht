@@ -1,4 +1,5 @@
 ---
+title: Designing out Homelessness
 content:
   body: >-
     The WMCA Homelessness Taskforce’s strategic objective is to design out homelessness,  in all its forms, and to promote sustainable and meaningful inclusion for all citizens.

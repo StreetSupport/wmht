@@ -1,4 +1,5 @@
 ---
+title: Positive Pathways Model
 content:
   body: >-
     The Positive Pathway model, adapted for use by the Homelessness Taskforce is a flexible framework that can be used in developing planned approaches to homelessness prevention. 

@@ -13,10 +13,10 @@
   <meta property="og:site_name" content="{{.Site.Title}}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="#" />
-  <meta property="og:title" content="{{.Title}} {{.Site.Title}}" />
+  <meta property="og:image" content="/assets/og.png" />
+  <meta property="og:title" content="{{.Title}} - {{.Site.Title}}" />
   <meta property="og:description" content="West Midlands Homelessness Taskforce - bringing everyone together in The West Midlands who are working to end homelessness"/>
-  <title>{{.Title}} {{.Site.Title}}</title>
+  <title>{{.Title}} - {{.Site.Title}}</title>
 
   <!-- stylesheet -->
   {{ $styleSass := resources.Get "sass/site.scss" }}
