@@ -1,7 +1,7 @@
   
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 
 media_folder: "/static/assets/uploads"
 public_folder: "/assets/uploads"
@@ -16,151 +16,212 @@ collections:
         label: "Home" 
         name: "home"
         fields:
-          - {label: "Image", name: "img", widget: "image"}
-          - {label: "Banner", name: "banner", widget: "object", fields: [
-              {label: "Banner heading", name: "bannerHeading", widget: "string"},
-              {label: "Banner copy", name: bannerCopy, widget: "markdown"}
-            ]}
-          - {label: "Tagline", name: "tagline", widget: "markdown"}
-          - {label: "CTA cards", name: "ctaCards", widget: "object", fields: [
-              {label: "Card one", name: "cardOne", widget: "object", fields: [
-                {label: "Card title", name: "cardTitle", widget: "string"},
-                {label: "Card text", name: "cardText", widget: "string"},
-                {label: "Card link", name: "cardLink", widget: "string"}
-              ]},
-              {label: "Card two", name: "cardTwo", widget: "object", fields: [
-                {label: "Card title", name: "cardTitle", widget: "string"},
-                {label: "Card text", name: "cardText", widget: "string"},
-                {label: "Card link", name: "cardLink", widget: "string"}
-              ]},
-              {label: "Card three", name: "cardThree", widget: "object", fields: [
-                {label: "Card title", name: "cardTitle", widget: "string"},
-                {label: "Card text", name: "cardText", widget: "string"},
-                {label: "Card link", name: "cardLink", widget: "string"}
-              ]}
-            ]}
-          - {label: "Learn more", name: "secondary", widget: "object", fields: [
-              {label: "Button one", name: "buttonOne", widget: "object", fields: [
-                {label: "Button text", name: "buttonText", widget: "string"},
-                {label: "Button link", name: "Link", widget: "string"}
-              ]},
-              {label: "Button two", name: "buttonTwo", widget: "object", fields: [
-                {label: "Button text", name: "buttonText", widget: "string"},
-                {label: "Button link", name: "Link", widget: "string"}
-              ]},
-              {label: "Button three", name: "buttonThree", widget: "object", fields: [
-                {label: "Button text", name: "buttonText", widget: "string"},
-                {label: "Button link", name: "Link", widget: "string"}
-              ]}
-            ]}
-      - file: "content/about/_index.md"
-        label: "About"
-        name: "about"
-        fields:
-          - {label: "Page title", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-          ]}
-          - {label: "What is the GMHAN?", name: "whatIs", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "How the board works", name: "howWorks", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Achieved so far", name: "whatHave", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Who is involved?", name: "whoIs", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Working on", name: "whatAre", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/give/_index.md"
-        label: "Give"
-        name: "give"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box top", name: "highlightTop", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box left", name: "highlightLeft", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box right", name: "highlightRight", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/get-involved/_index.md"
-        label: "Get Involved"
-        name: "get-involved"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Speak Up", name: "speakUp", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/news-and-events/_index.md"
-        label: "News and Events"
-        name: "events"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown", required: false}
-          ]}
-      - file: "content/resources/_index.md"
-        label: "Resources"
-        name: "resources"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
+          - {label: "What is the taskforce?", name: "whatIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string", required: false},
-              {label: "Body", name: "body", widget: "markdown", required: false}
+              {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Upload file (after you have uploaded the file, you can use it's link as a hyperlink anywhere on the site)", name: "uploads", widget: "object", fields: [
-              {label: "Publications (list of pdf documents linked from uploads below)", name: "body", widget: "markdown"},
-              {label: "Uploads", name: "uploadsone", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadstwo", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsthree", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsfour", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsfive", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadssix", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsseven", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadseight", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsnine", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsten", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadseleven", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadstwelve", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false}
+          - {label: "What have we achieved?", name: "whatHave", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
           ]}
-  - name: "news-and-events"
-    label: "news/event"
+          - {label: "Our plans?", name: "ourPlans", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/alternative-giving/_index.md"
+        label: "Alternative Giving"
+        name: alternative-giving
+        fields:
+          - {label: "How can you give?", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Change into Action", name: "highlightTop", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "SSN Give Help", name: "highlightLeft", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/commitment-to-collaborate/_index.md"
+        label: "Commitment to Collaborate"
+        name: commitment-to-collaborate
+        fields:
+          - {label: "About c2c", name: "about", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "How to use the toolkit", name: "toolkit", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "c2cResources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/designing-out-homelessness/_index.md"
+        label: "Designing out Homelessness"
+        name: designing-out-homelessness
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/homelessness-advice/_index.md"
+        label: "Homelessness Advice"
+        name: homelessness-advice
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "SSN", name: "ssn", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "StreetLink", name: "streetlink", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/positive-pathways/_index.md"
+        label: "Postitive Pathways Model"
+        name: postitive-pathways
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/areas-of-work/_index.md"
+        label: "Areas of work"
+        name: areas-of-work
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Positive pathways", name: "positivePathways", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Designing out Homelessness", name: "designingOutHomelessness", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Commitment to Collaborate", name: "commitmentToCollaborate", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Businesses", name: "businesses", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Faith and Community Groups", name: "faithAndCommunity", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Children, Families and Young People", name: "childrenFamilies", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "No Recourse to Public Funds (NRPF)", name: "nrpf", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Rough sleeping", name: "roughSleeping", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/contact/_index.md"
+        label: "Contact"
+        name: contact
+        fields:
+          - {label: "Content", name: "contact", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+  - name: "areas-of-work"
+    label: "Areas of work"
     editor:
       preview: false
-    folder: "/content/news-and-events"
-    create: true
-    filter: {field: "event", value: true}
-    fields:
-      - {label: "Event", name: "event", default: true}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "publishDate", widget: "datetime"}
-      - {label: "Summary (Card displayed on news and events page)", name: "eventCard", widget: "object", fields: [
-          {label: "Heading", name: "name", widget: "string", required: false},
-          {label: "Sub-heading or Location", name: "location", widget: "string", required: false},
-          {label: "Date/Author", name: "date", widget: "string", required: false}
-        ]}
-      - {label: "Content", name: "content", widget: "object", fields: [
-          {label: "Heading", name: "heading", widget: "string", required: false},
-          {label: "Body", name: "body", widget: "markdown", required: false},
-          {label: "Image (Aspect 3by2 - 1080px by 720px)", name: "image", widget: "image", required: false}
-        ]}
+    files:
+      - file: "content/businesses/_index.md"
+        label: "Businesses"
+        name: businesses
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/families-and-young-people/_index.md"
+        label: "Children, Families and Young People"
+        name: families-and-young-people
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/faith-and-community-groups/_index.md"
+        label: "Faith and Community Groups"
+        name: faith-and-community-groups
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/nrpf/_index.md"
+        label: "No Recourse to Public Funds"
+        name: nrpf
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/rough-sleeping/_index.md"
+        label: "Rough Sleeping"
+        name: rough-sleeping
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Rough Sleeping Initiative", name: "roughSleepingInit", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Rough Sleeping Resources", name: "roughSleepingResources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Housing First", name: "housingFirst", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Housing First resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
