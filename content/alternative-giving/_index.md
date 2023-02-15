@@ -13,10 +13,6 @@ highlightTop:
 
     The scheme is administered and managed locally in Birmingham, Coventry, Dudley, Sandwell, Solihull and Walsall; with Wolverhampton having a similar initiative known as [Alternative Giving CIO](https://wolverhamptonchange.co.uk). 
   heading: Change into action
-highlightBottom:
-  body: >-
-    [Alternative Giving CIO](https://wolverhamptonchange.co.uk) (Charity No. 1186415) is an opportunity for everyone and anyone to make the choice to give, donate and support those in need. Your donation will help to change the way in which we help people at risk of homelessness in the city by ensuring all funds raised reach those currently in severe hardship.
-  heading: Alternative Giving CIO - Wolverhampton
 highlightLeft:
   body: >-
     Local community and charitable organisations are the frontline of our
