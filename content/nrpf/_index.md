@@ -24,7 +24,7 @@ resources:
     * [Children in Need and Immigration and Citizenship Matters](/assets/resources/nrpf/FINAL-Children-in-Need-and-Immigration-and-Citizenship-Matters.pdf)
 
 
-    * [Domestic violance and immigration](/assets/resources/nrpf/domestic-violence-and-immigration.pdf)
+    * [Domestic violence and immigration](/assets/resources/nrpf/domestic-violence-and-immigration.pdf)
 
 
     * [Exhaust all Options - LCN Report](/assets/resources/nrpf/exhaust-all-options.pdf)
