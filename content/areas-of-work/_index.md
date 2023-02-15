@@ -10,7 +10,7 @@ positivePathways:
     The Positive Pathway Model underpins all the work of the Homelessness Taskforce it provides us with a systematic and coherent way of thinking about how things can be done differently.
   heading: Potitve Pathways Model  
   
-desingingOutHomelessness:
+designingOutHomelessness:
   body: >-
     Designing out Homelessness is the strategic objective of the Homelessness Taskforce. Our approach builds on the Positive Pathways Model and aims to build in homelessness prevention and resilience building into the very fabric of services and systems. 
   heading: Designing out Homlessness
