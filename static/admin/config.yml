@@ -7,6 +7,147 @@ media_folder: "/static/assets/uploads"
 public_folder: "/assets/uploads"
 
 collections:
+  - name: "pages"
+    label: "Pages"
+    editor:
+      preview: false
+    files:
+      - file: "content/_index.md"
+        label: "Home" 
+        name: "home"
+        fields:
+          - {label: "What is the taskforce?", name: "whatIs", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string", required: false},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "What have we achieved?", name: "whatHave", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Our plans?", name: "ourPlans", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/alternative-giving/_index.md"
+        label: "Alternative Giving"
+        name: alternative-giving
+        fields:
+          - {label: "How can you give?", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Change into Action", name: "highlightTop", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "SSN Give Help", name: "highlightLeft", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/commitment-to-collaborate/_index.md"
+        label: "Commitment to Collaborate"
+        name: commitment-to-collaborate
+        fields:
+          - {label: "About c2c", name: "about", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "How to use the toolkit", name: "toolkit", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "c2cResources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/designing-out-homelessness/_index.md"
+        label: "Designing out Homelessness"
+        name: designing-out-homelessness
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/homelessness-advice/_index.md"
+        label: "Homelessness Advice"
+        name: homelessness-advice
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "SSN", name: "ssn", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "StreetLink", name: "streetlink", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/positive-pathways/_index.md"
+        label: "Postitive Pathways Model"
+        name: postitive-pathways
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/areas-of-work/_index.md"
+        label: "Areas of work"
+        name: areas-of-work
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Positive pathways", name: "positivePathways", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Designing out Homelessness", name: "designingOutHomelessness", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Commitment to Collaborate", name: "commitmentToCollaborate", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Businesses", name: "businesses", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Faith and Community Groups", name: "faithAndCommunity", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Children, Families and Young People", name: "childrenFamilies", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "No Recourse to Public Funds (NRPF)", name: "nrpf", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Rough sleeping", name: "roughSleeping", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/contact/_index.md"
+        label: "Contact"
+        name: contact
+        fields:
+          - {label: "Content", name: "contact", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
   - name: "areas-of-work"
     label: "Areas of work"
     editor:
@@ -81,147 +222,6 @@ collections:
               {label: "Body", name: "body", widget: "markdown"}
           ]}
           - {label: "Housing First resources", name: "resources", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-  - name: "pages"
-    label: "Pages"
-    editor:
-      preview: false
-    files:
-      - file: "content/_index.md"
-        label: "Home" 
-        name: "home"
-        fields:
-          - {label: "What is the taskforce?", name: "whatIs", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "What have we achieved?", name: "whatHave", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Our plans?", name: "ourPlans", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/alternative-giving/_index.md"
-        label: "Alternative Giving"
-        name: alternative-giving
-        fields:
-          - {label: "How can you give?", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Change into Action", name: "highlightTop", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "SSN Give Help", name: "highlightLeft", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/commitment-to-collaborate/_index.md"
-        label: "Commitment to Collaborate"
-        name: commitment-to-collaborate
-        fields:
-          - {label: "About c2c", name: "about", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "How to use the toolkit", name: "toolkit", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "resources", name: "c2cResources", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/designing-out-homelessness/_index.md"
-        label: "Designing out Homelessness"
-        name: designing-out-homelessness
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "resources", name: "resources", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/homelessness-advice/_index.md"
-        label: "Homelessness Advice"
-        name: homelessness-advice
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "SSN", name: "SSN", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "StreetLink", name: "streetlink", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/positive-pathways/_index.md"
-        label: "Postitive Pathways Model"
-        name: postitive-pathways
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Resources", name: "resources", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/areas-of-work/_index.md"
-        label: "Areas of work"
-        name: areas-of-work
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Positive pathways", name: "positivePathways", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Designing out Homelessness", name: "designingOutHomelessness", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Commitment to Collaborate", name: "commitmentToCollaborate", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Businesses", name: "businesses", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Faith and Community Groups", name: "faithAndCommunity", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Children, Families and Young People", name: "childrenFamilies", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "No Recourse to Public Funds (NRPF)", name: "nrpf", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Rough sleeping", name: "roughSleeping", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/contact/_index.md"
-        label: "Contact"
-        name: contact
-        fields:
-          - {label: "Content", name: "contact", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}

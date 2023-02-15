@@ -9,8 +9,6 @@ about:
 
     The toolkit gives you a step by step approach to identifying what the issues and gaps are for the people you work with and how you can help to tackle those issues and gaps.
     You do not have to work in a specialist housing or homelessness organisation to use this toolkit. Any organisation or business can make a contribution to preventing homelessness. 
-
-    How to use the C2C toolkit
   heading: Commitment to Collaborate (C2C)
 toolkit:
   body: >-
@@ -20,7 +18,7 @@ toolkit:
     Once you've read it you may come to the conclusion that you want to use the alternative version we have prepared with a case study for you to use, in which case look at the [Case Study Approach toolkit guide](/assets/resources/c2c/c2c-case-study-slides.pptx).
 
 
-    For both approaches there are sets of Powerpoint slides, with instructions in the notes section, for both approaches.
+    For both approaches there are sets of Powerpoint slides, with instructions in the notes section.
 
 
     All the materials have been designed to maximise their accessibility and ease of use electronically so you should not have to print the main documents.
