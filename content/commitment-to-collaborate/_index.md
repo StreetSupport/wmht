@@ -35,6 +35,8 @@ c2cResources:
     
     * [Case study toolkit](/assets/resources/c2c/c2c-case-study-toolkit-guide.pdf)
 
+    * [Roundtable Approach toolkit](/assets/resources/c2c/c2c-roundtable-slides.pptx)
+
     * [Pledge template](/assets/resources/c2c/c2c-pledge-template.pdf)
 
     * [Toolkit discussion log](/assets/resources/c2c/c2c-toolkit-discussion-log.pdf)
