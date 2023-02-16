@@ -31,22 +31,31 @@ toolkit:
 c2cResources:
   body: >-
     Resources are as follows:
+
     
     * [Roundtable Approach toolkit](/assets/resources/c2c/c2c-roundtable-slides.pptx)
     
+
     * [Case study toolkit](/assets/resources/c2c/c2c-case-study-toolkit-guide.pdf)
+
 
     * [Pledge template](/assets/resources/c2c/c2c-pledge-template.pdf)
 
+
     * [Toolkit discussion log](/assets/resources/c2c/c2c-toolkit-discussion-log.pdf)
+
 
     * [JAS case study](/assets/resources/c2c/c2c-toolkit-jas-case-study.pdf)
 
+
     * [Writable action plan](/assets/resources/c2c/c2c-writable-action-plan.pdf)
+
 
     * [Writable pledges](/assets/resources/c2c/c2c-writable-pledges.pdf)
 
+
     * [Printable Pledges and actions](/assets/resources/c2c/printable-pledges-and-actions-copy.pdf)
+
 
     * [Process for awarding the logo](/assets/resources/c2c/process-for-awarding-the-logo.pdf)
   heading: All C2C resources
