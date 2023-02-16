@@ -32,10 +32,9 @@ c2cResources:
   body: >-
     Resources are as follows:
     
+    * [Roundtable Approach toolkit](/assets/resources/c2c/c2c-roundtable-slides.pptx)
     
     * [Case study toolkit](/assets/resources/c2c/c2c-case-study-toolkit-guide.pdf)
-
-    * [Roundtable Approach toolkit](/assets/resources/c2c/c2c-roundtable-slides.pptx)
 
     * [Pledge template](/assets/resources/c2c/c2c-pledge-template.pdf)
 
