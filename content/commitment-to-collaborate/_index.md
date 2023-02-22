@@ -56,5 +56,5 @@ c2cResources:
 
 
     * [Process for awarding the logo](/assets/resources/c2c/process-for-awarding-the-logo.pdf)
-  heading: All C2C resources
+  heading: C2C resources
 ---
