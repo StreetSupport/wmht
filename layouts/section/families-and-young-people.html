@@ -12,8 +12,18 @@
       <h2 class="h3">{{ .Params.resources.heading }}</h2>
       <p>{{ partial "bodyMarkdown.html" .Params.resources.body }}</p>
     </div>
+
+    <div class="content">
+      <h1 class="h3">{{ .Params.youngPeople.heading }}</h1>
+      <p>{{ partial "bodyMarkdown.html" .Params.youngPeople.body }}</p>
+    </div>
+
+    <div class="block block--highlight block--highlight-grey">
+      <h2 class="h3">{{ .Params.youngPeopleResources.heading }}</h2>
+      <p>{{ partial "bodyMarkdown.html" .Params.youngPeopleResources.body }}</p>
+    </div>
   </div>
- </div> 
+</div> 
 
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}
