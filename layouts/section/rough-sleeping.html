@@ -8,7 +8,6 @@
       <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
       <h3 class="h3">{{ .Params.roughSleepingInit.heading }}</h3>
       <p>{{ partial "bodyMarkdown.html" .Params.roughSleepingInit.body }}</p>
-      <a href="/alternative-giving"><button class="btn">Alternative Giving</button></a>
 
       <div class="block block--highlight block--highlight-grey">
         <h2 class="h3">{{ .Params.roughSleepingResources.heading }}</h2>
@@ -26,6 +25,34 @@
       </div>
     </div>
 
+  </div>
+
+  <div class="container">
+    <section>
+      <div>
+        <h1 class="h1">{{ .Params.altGiving.heading }}</h1>
+        <!-- <img class="cia-logo" src="/assets/cia-logo.png" alt="change into action logo"> -->
+        <p>{{ partial "bodyMarkdown.html" .Params.altGiving.body }}</p>
+      </div>
+    </section>
+    
+    <section>
+      <div>
+        <div>
+          <h3>{{ .Params.highlightTop.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.highlightTop.body }}</p>
+        </div>
+      </div>
+    </section>
+    
+    <section>
+      <div>
+        <div>
+          <h3>{{ .Params.highlightLeft.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.highlightLeft.body }}</p>
+        </div>
+      </div>
+    </section>
   </div>
 </div> 
 

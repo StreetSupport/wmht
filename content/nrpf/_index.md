@@ -11,13 +11,11 @@ content:
     The group is looking at a wide range of circumstances around the issue of no recourse and restricted eligibility to public funds and the impact specifically on homelessness, including individuals and families that may have this as a specified visa condition, as well as those who are undocumented and living in the region.
 
 
-    Recently the group convened a conference to bring partners together to share practice and to consider the government’s new rough sleeping strategy and what it would mean in practice to  ‘exhaust all options’ for those with no recourse to public funds experiencing homelessness. 
+    Recently the group convened a conference to bring partners together to share practice and to consider the [Government’s new rough sleeping strategy](https://gov.uk/government/publications/ending-rough-sleeping-for-good) and what it would mean in practice to  ‘exhaust all options’ for those with no recourse to public funds experiencing homelessness. 
 
   heading: No Recourse to Public Funds (NRPF)
 resources:
   body: >-
-    Resources are as follows: 
-    
 
     * [EEA National Children in Need](/assets/resources/nrpf/FINAL-EEA-National-Children-in-Need.pdf)
 
