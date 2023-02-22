@@ -40,7 +40,7 @@ businesses:
 
 faithAndCommunity:
   body: >-
-    Faith and Community groups have a crucial role to play in reducing homelessness and its impact of people.  They can be critical partners in work at all stages of the Positive Pathways Model approach.
+    Faith and Community groups have a crucial role to play in reducing homelessness and its impact of people. They can be critical partners in all stages of the Positive Pathways Model approach.
 
 
     [Learn more](/faith-and-community-groups)

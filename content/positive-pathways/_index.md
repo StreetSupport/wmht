@@ -13,9 +13,7 @@ content:
   heading: The Positive Pathways Model
 resources:
   body: >-
-    Resources are as follows: 
     
-
     * [Positive Pathways Model Briefing Paper](/assets/resources/postitive-pathways-model-briefing-paper.pdf)
 
   heading: Positive Pathways Resources

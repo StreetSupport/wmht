@@ -28,22 +28,6 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-      - file: "content/alternative-giving/_index.md"
-        label: "Alternative Giving"
-        name: alternative-giving
-        fields:
-          - {label: "How can you give?", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Change into Action", name: "highlightTop", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "SSN Give Help", name: "highlightLeft", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
       - file: "content/commitment-to-collaborate/_index.md"
         label: "Commitment to Collaborate"
         name: commitment-to-collaborate
@@ -222,6 +206,10 @@ collections:
               {label: "Body", name: "body", widget: "markdown"}
           ]}
           - {label: "Housing First resources", name: "resources", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Alternative giving", name: "altGiving", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}

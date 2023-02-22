@@ -8,7 +8,7 @@ content:
     Our goal and the definition that we have co-designed as part of the early adopter work is to ensure that rough sleeping is prevented wherever possible, so it is rare, and where it occurs it is a brief and non-recurring experience.
 
 
-    We are testing out an approach with the Centre for Homelessness Impact and the Department for Levelling Up, Housing and Communities (DLUHC) to better track progress towards ensuring that rough sleeping is prevented as much as possible and is measurably rare, brief and non-recurring, and to use this to understand challenges and learn from what is working.  
+    We are testing out an approach with the [Centre for Homelessness Impact](https://homelessnessimpact.org) and the Department for Levelling Up, Housing and Communities (DLUHC) to better track progress towards ensuring that rough sleeping is prevented as much as possible and is measurably rare, brief and non-recurring, and to use this to understand challenges and learn from what is working.  
 
 
     This early adopter initiative is the first both to introduce a simple and memorable definition of ending rough sleeping and develop meaningful indicators that can help to drive forward efforts to achieve this.
@@ -28,15 +28,13 @@ roughSleepingInit:
 
 roughSleepingResources:
   body: >-
-    Resources are as follows:
-
 
     * [RSI 2020-21 Key Achievements and Learning report](/assets/resources/rsi-2020-21-key-achievements-learning-report-final.pdf)
     
     
     * [RSI 2021-22 Key Achievements and Learning report](/assets/resources/rsi-2021-22-key-achievements-learning-report.pdf)
 
-  heading: Rough Sleeping Resources
+  heading: Rough Sleeping Initiative Resources
 
 housingFirst:
     body: >-
@@ -58,13 +56,27 @@ housingFirst:
 
 resources:
   body: >-
-    Resources are as follows: 
-    
-
-    * [WMCA Housing First Research Project (final report)](/assets/resources/WMCA-housing-first-research-project-FINAL-Report.pdf)
-
 
     * [WMCA Housing First Research Project (exec summary)](/assets/resources/WMCA-housing-first-research-EXECUTIVE-SUMMARY-FINAL.pdf)
+    
+    
+    * [WMCA Housing First Research Project (final report)](/assets/resources/WMCA-housing-first-research-project-FINAL-Report.pdf)
 
   heading: Housing First Resources
+
+altGiving: 
+  body: >-
+    Alternative giving schemes offer local residents and businesses the opportunity to make a real difference by donating money to reduce the impact of rough sleeping and to prevent rough sleeping. That is why the WMCA Homelessness Taskforce in partnership with the Mayor of the West Midlands and the region’s local authorities developed [Change into Action](https://changeintoaction.org.uk).
+    
+     
+    Change into Action provides a safe, easy and secure way to donate money to fund practical support for people who are or have been rough sleeping across the region. The scheme brings together partners from key local organisations, such as specialist homelessness charities and street teams that work with individuals to identify practical measures that can make a difference and help make that move away from the streets.
+
+
+    Operating since 2017, Change into Action is administered and managed locally in Birmingham, Coventry, Dudley, Sandwell, Solihull and Walsall; with Wolverhampton having a similar initiative known as [Alternative Giving CIO](https://wolverhamptonchange.co.uk). 
+
+
+    We invite you to join us in working together so that every member of the community can turn small change into big change. 
+    Our local community and charitable organisations are the frontline of our response to homelessness. Their staff and volunteers work tirelessly, and a donation to them can also make a huge difference to what they are able to achieve. To see what organisations are active in your area, go to the [Street Support website](https://streetsupport.net/give-help).
+
+  heading: Alternative Giving
 ---

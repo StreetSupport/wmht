@@ -10,13 +10,11 @@ content:
   heading: Businesses
 resources:
   body: >-
-    Resources are as follows:
+
+    * [Designing out Homelessness Checklist](/assets/resources/designing-out-homelessness-checklist.pdf)
+
     
-
     * [Designing out Homelessness Full Toolkit](/assets/resources/desiging-out-homelessness-full-toolkit.pdf)
-
-
-    * [Designing out Homelessness checklist](/assets/resources/designing-out-homelessness-checklist.pdf)
 
   heading: Business Resources
 ---

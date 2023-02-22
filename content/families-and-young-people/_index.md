@@ -25,14 +25,11 @@ content:
   heading: Children, Families and Young People
 resources:
   body: >-
-    Resources are as follows: 
-    
-
-    * [WMCA Homelessness Taskforce – Families in TA – final report](/assets/resources/wmca-homelessness-taskforce-families-in-ta-final-report.pdf)
-
 
     * [WMCA Homelessness Taskforce – Families in TA – summary report](/assets/resources/wmca-homelessness-taskforce-families-in-ta-summary-report.pdf)
 
+
+    * [WMCA Homelessness Taskforce – Families in TA – final report](/assets/resources/wmca-homelessness-taskforce-families-in-ta-final-report.pdf)
 
   heading: Children, Families and Young People Resources
 ---

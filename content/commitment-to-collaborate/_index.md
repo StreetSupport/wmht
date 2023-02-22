@@ -30,8 +30,6 @@ toolkit:
 
 c2cResources:
   body: >-
-    Resources are as follows:
-
     
     * [Roundtable Approach toolkit](/assets/resources/c2c/c2c-roundtable-slides.pptx)
     

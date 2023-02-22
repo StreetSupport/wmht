@@ -13,10 +13,14 @@ content:
   heading: Faith and Community Groups
 resources:
   body: >-
-    Resources are as follows: 
-    
 
-    * [WMCA Designing out homelessness with Faith and Community Groups Booklet](/assets/resources/wmca-designing-out-homelessness-with-fairth-and-community-groups-booklet.pdf)
+    * [WMCA Designing out Homelessness with Faith and Community Groups Booklet](/assets/resources/wmca-designing-out-homelessness-with-fairth-and-community-groups-booklet.pdf)
+
+
+    * [Faith & Homelessness in the West Midlands](/assets/resources/faith-and-homelessness-in-the-west-midlands.pdf)
+
+
+    * [Mayor & Faith Conference Action Plan](/assets/resources/mayor-and-faith-conference-action-plan.pdf)
 
   heading: Faith and Community Group Resources
 ---
