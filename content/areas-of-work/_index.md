@@ -20,7 +20,7 @@ designingOutHomelessness:
 
 
     [Learn more](/designing-out-homelessness)
-  heading: Designing out Homlessness
+  heading: Designing out Homelessness
 
 commitmentToCollaborate:
   body: >-
